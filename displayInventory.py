@@ -10,4 +10,4 @@ def displayInventory(inventory):
     print('Total number of items: {}'.format(total_items))
 
 
-displayInventory(stuff)
+#displayInventory(stuff)
